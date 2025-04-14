@@ -21,6 +21,6 @@ def upload_image(page):
     uploaded_file = st.file_uploader("Upload an image", ["jpg", "png", "jpeg"], key=page)
     if uploaded_file:
         image = Image.open(uploaded_file)
-        st.image(image, caption="This is the image you uploaded")
+        st.image(image, caption="This is the image you uploaded", use_container_width=True)
         return image
     return None
