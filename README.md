@@ -4,7 +4,7 @@ This is a simple and interactive web app built with **Streamlit** and powered by
 
 - ❓ Ask a question about the image  
 - 🔍 Detect specific objects  
-- 📝 Generate a caption for the image  
+- 📝 Generate a caption for the image
 
 ## 📸 Features
 
@@ -12,6 +12,9 @@ This is a simple and interactive web app built with **Streamlit** and powered by
 - AI-powered question answering, captioning, and object detection  
 - Clean and responsive interface using Streamlit  
 - Powered by the Moondream model
+
+## 🎬 Demo
+https://github.com/user-attachments/assets/13aa251a-d4f1-4b98-ada4-4efef99ab367
 
 ## 🛠️ Tech Stack
 - [Python](https://www.python.org/)
@@ -44,5 +47,8 @@ streamlit run app.py
 ```
 
 ## 🌐 Deployment
-You can easily deploy this app on platforms like:
-- Streamlit Cloud
+You can easily deploy this app on Streamlit Cloud.
+
+## 📬 Contact
+Feel free to reach out if you have questions or suggestions!
+
