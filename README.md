@@ -14,7 +14,7 @@ This is a simple and interactive web app built with **Streamlit** and powered by
 - Powered by the Moondream model
 
 ## 🎬 Demo
-https://github.com/user-attachments/assets/13aa251a-d4f1-4b98-ada4-4efef99ab367
+https://github.com/user-attachments/assets/43979286-2895-44da-bebf-df80e1b65e0c
 
 ## 🛠️ Tech Stack
 - [Python](https://www.python.org/)
