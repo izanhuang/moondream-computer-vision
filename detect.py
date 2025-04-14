@@ -19,5 +19,5 @@ def detect_page(moondream):
                 for obj in objects:
                     xy = get_rectangle_coordinates(obj, image.size)
                     draw.rectangle(xy, fill=None, outline=color, width=4)
-            st.image(image, caption="This is the image with detection")
+            st.image(image, caption="This is the image with detection", use_container_width=True)
             st.success("Result generated")
